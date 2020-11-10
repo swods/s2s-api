@@ -1,5 +1,5 @@
 {
-    "name": "sw/s2s-api",
+    "name": "swods/s2s-api",
     "description": "tracker.my.com s2s api",
     "homepage": "https://tracker.my.com",
     "type": "library",
